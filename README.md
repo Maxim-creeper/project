@@ -1,4 +1,4 @@
 # project
 Maksim Botev
-JDK
+JDK javaSE-22
 Eclipse IDE 2024/2025
